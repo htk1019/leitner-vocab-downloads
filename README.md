@@ -16,3 +16,7 @@ Windows 설치 파일은 개인 인증서로 서명하지 않았습니다. Windo
 ## v0.2.1 자동 입력 개선
 
 `lots of`, `a lot of`, `plenty of` 등 생활 표현 47개에 뜻·학습용 미국식 발음기호·영한 예문을 포함합니다. 사전 검색 시 빈 항목을 채우고 직접 입력은 유지합니다. 누락된 일반 단어 발음·예문은 [FreeDictionaryAPI.com](https://freedictionaryapi.com/)의 Wiktionary(CC BY-SA 4.0) 자료로 무료 보완합니다. 사전 출처와 라이선스는 릴리스의 LICENSE.txt에 있습니다.
+
+## v0.2.2 합성어 보강
+
+생활·학교·교통·음식·자연 등 합성어 298개의 뜻과 영한 예문을 보강했습니다. `fire house`/`firehouse`, `fire truck`/`firetruck` 같은 확인된 표기 변형을 연결합니다. [FreeDictionaryAPI.com](https://freedictionaryapi.com/)과 English Wiktionary(CC BY-SA 4.0)의 발음 자료를 이용하며, 전체 이용 조건과 직접 작성한 데이터의 출처는 릴리스의 LICENSE.txt에 있습니다. 기존 앱은 새 설치 파일을 실행해 업데이트하세요. 설정 하단에서 버전 0.2.2를 확인할 수 있습니다.
